@@ -2,7 +2,7 @@
 
 A sleek, responsive **User Registration & Profile Management** interface built using pure **HTML5, CSS3, and Vanilla JavaScript**. This project focuses on a clean User Experience (UX) with real-time validation and hardware integration.
 
-website is live now -: https://github.com/ANMOLMISHRA-GG/Profile-management-system-
+website is live now -: https://anmolmishra-gg.github.io/Profile-management-system-/
 
 ## ✨ Features
 
